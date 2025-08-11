@@ -1,4 +1,4 @@
-# Path-Following-and-Dynamic-Landing-of-a-Parrot-Mambo-Drone
+# Path-Following-and-Dynamic-Landing
 
 This repository contains two key autonomous drone control systems for the Parrot Mambo drone:
 
