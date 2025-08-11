@@ -44,9 +44,12 @@ Both projects are implemented in MATLAB & Simulink with custom logic, vision mod
 ---
 
 ## Demonstration Videos
+
+### Dynamic Landing
 https://github.com/user-attachments/assets/1135f30d-3e06-485d-a8a1-6c0f8de45022 
 
-
+### Path Following
+https://github.com/user-attachments/assets/44cb658e-e7ba-48e8-84e6-edfeb56765f5 
 
 ---
 
