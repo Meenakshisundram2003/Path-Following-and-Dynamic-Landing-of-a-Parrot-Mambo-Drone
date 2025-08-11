@@ -13,10 +13,10 @@ Both projects are implemented in MATLAB & Simulink with custom logic, vision mod
 
 ```
 /
-├── dynamic_landing.zip          # All code/models for dynamic landing experiment
-├── path_following.zip           # All code/models for path following experiment
+├── dynamic_landing.zip           # All code/models for dynamic landing experiment
+├── path_following.zip            # All code/models for path following experiment
 ├── docs/
-│   ├── Landing_Report.pdf       # Report for dynamic landing
+│   ├── Landing_Report.pdf        # Report for dynamic landing
 │   └── Path_Following_Report.pdf # Report for path following
 ```
 ---
@@ -30,6 +30,9 @@ Both projects are implemented in MATLAB & Simulink with custom logic, vision mod
   3. Follow instructions in `/docs/Landing_Report.pdf`.
   4. Run Simulink models and deploy code to drone as described.
 - **Documentation**: See [`docs/Landing_Report.pdf`](docs/Landing_Report.pdf).
+  
+### Demo - Dynamic Landing
+https://github.com/user-attachments/assets/1135f30d-3e06-485d-a8a1-6c0f8de45022 
 ---
 
 ## Project 2: Path Following
@@ -41,14 +44,8 @@ Both projects are implemented in MATLAB & Simulink with custom logic, vision mod
   3. Follow instructions in `/docs/Path_Following_Report.pdf`.
   4. Run Simulink models and deploy code to drone as described.
 - **Documentation**: See [`docs/Path_Following_Report.pdf`](docs/Path_Following_Report.pdf).
----
 
-## Demonstration Videos
-
-### Dynamic Landing
-https://github.com/user-attachments/assets/1135f30d-3e06-485d-a8a1-6c0f8de45022 
-
-### Path Following
+### Demo - Path Following
 https://github.com/user-attachments/assets/44cb658e-e7ba-48e8-84e6-edfeb56765f5 
 
 ---
